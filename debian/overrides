@@ -1,0 +1,2 @@
+r-cran-rcolorbrewer: extra-license-file usr/lib/R/site-library/RColorBrewer/COPYING
+r-cran-rcolorbrewer: executable-not-elf-or-script ./usr/lib/R/site-library/RColorBrewer/COPYING
